@@ -1,4 +1,4 @@
-import { API_KEY } from '../../env';
+import { API_KEY } from '../env';
 import Axios from 'axios';
 
 export default Axios.create({
